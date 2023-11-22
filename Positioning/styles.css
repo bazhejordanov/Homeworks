@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}
+
+#relativeBox {
+    position: relative;
+    background-color: black;
+    width: 450px;
+    height: 400px;
+}
+
+#one {
+    position: absolute;
+    background-color: yellow;
+    bottom: 0px;
+    right: 0%;
+    width: 10px;
+    height: 30px;
+}
+
+#two {
+    position: absolute;
+    background-color: green;
+    width: 10px;
+    height: 30px;
+    right: 0%;
+    bottom: 35px;
+}
+
+#three {
+    position: absolute;
+    background-color: orangered;
+    bottom: 0%;
+    width: 330px;
+    height: 65px;
+    right: 15px;
+}
+
+#four {
+    position: absolute;
+    background-color: blue;
+    bottom: 0px;
+    left: 0px;
+    width: 100px;
+    height: 65px;
+}
+
+#five {
+    position: absolute;
+    background-color: red;
+    width: 345px;
+    height: 330px;
+    right: 0px;
+    bottom: 70px;
+}
+
+#six {
+    position: absolute;
+    background-color: rgb(10, 168, 180);
+    width: 100px;
+    height: 130px;
+    left: 0px;
+}
+
+#seven {
+    position: absolute;
+    background-color: aqua;
+    left: 0px;
+    width: 100px;
+    height: 190px;
+    bottom: 70px;
+}
