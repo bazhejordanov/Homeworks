@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealCalculator", "RealCalculator\RealCalculator.csproj", "{61D5405F-ED83-48B7-896C-5F01AAB8DC3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{D2900B33-2479-4AD0-B7F8-87BA5F536C4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{FF9C46A8-EF33-4E9E-8A79-C3C68CE884C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D5405F-ED83-48B7-896C-5F01AAB8DC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D5405F-ED83-48B7-896C-5F01AAB8DC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D5405F-ED83-48B7-896C-5F01AAB8DC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D5405F-ED83-48B7-896C-5F01AAB8DC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2900B33-2479-4AD0-B7F8-87BA5F536C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2900B33-2479-4AD0-B7F8-87BA5F536C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2900B33-2479-4AD0-B7F8-87BA5F536C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2900B33-2479-4AD0-B7F8-87BA5F536C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF9C46A8-EF33-4E9E-8A79-C3C68CE884C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9C46A8-EF33-4E9E-8A79-C3C68CE884C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9C46A8-EF33-4E9E-8A79-C3C68CE884C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9C46A8-EF33-4E9E-8A79-C3C68CE884C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {150D87A7-E07E-4F6B-B32D-E3E684EE975F}
+	EndGlobalSection
+EndGlobal
